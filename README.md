@@ -1,4 +1,4 @@
-# Qwik TikTok
+# Next TikTok
 
 This repository contains code of a learning project called: "Next TikTok".
 
