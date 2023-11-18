@@ -11,6 +11,7 @@ It's purpose is to build TikTok using the Next framework.
 - Performance
 - Semantic HTML
 - SCSS
+- Tailwind
 - Lighthouse
 - SEO
 
