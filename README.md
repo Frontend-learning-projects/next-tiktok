@@ -1,12 +1,12 @@
 # Qwik TikTok
 
-This repository contains code of a learning project called: "Qwik TikTok".
+This repository contains code of a learning project called: "Next TikTok".
 
-It's purpose is to build TikTok using the Qwik framework.
+It's purpose is to build TikTok using the Next framework.
 
 ## Learning
 
-- Qwik
+- Next
 - Accessibility
 - Performance
 - Semantic HTML
