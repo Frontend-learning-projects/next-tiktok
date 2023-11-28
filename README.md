@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Next TikTok
 
 This repository contains code of a learning project called: "Next TikTok".
